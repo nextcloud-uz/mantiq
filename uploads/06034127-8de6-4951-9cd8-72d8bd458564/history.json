@@ -1,0 +1,146 @@
+[
+    {
+        "task_id": "13bf6965-2a17-4508-89a2-2e1c06cb23b8",
+        "file_name": "65dd6e7854d97.pdf",
+        "format": "md",
+        "status": "completed",
+        "created_at": "2026-04-24 15:52:01",
+        "saved_file": "13bf6965-2a17-4508-89a2-2e1c06cb23b8_69eb759671591.md"
+    },
+    {
+        "task_id": "ea19fc9c-a046-46f9-8f3a-b8e7686d7a99",
+        "file_name": "65dd6e7854d97.pdf",
+        "format": "json",
+        "status": "pending",
+        "created_at": "2026-04-24 15:52:44",
+        "saved_file": null
+    },
+    {
+        "task_id": "b8a9b1ea-1d37-44c7-939e-e89e35066fbf",
+        "file_name": "65dd6e7854d97.pdf",
+        "format": "html",
+        "status": "started",
+        "created_at": "2026-04-24 15:54:23",
+        "saved_file": null
+    },
+    {
+        "task_id": "a513ad80-3472-45b3-bcb6-854d6f471ff5",
+        "file_name": "Lot.pdf",
+        "format": "html",
+        "status": "completed",
+        "created_at": "2026-04-24 15:55:05",
+        "saved_file": "a513ad80-3472-45b3-bcb6-854d6f471ff5_69eb763c68808.html"
+    },
+    {
+        "task_id": "480af23e-e5b8-4191-90d0-c3a4ca04e873",
+        "file_name": "65dd6e7854d97.pdf",
+        "format": "html",
+        "status": "completed",
+        "created_at": "2026-04-24 15:55:14",
+        "saved_file": "480af23e-e5b8-4191-90d0-c3a4ca04e873_69eb765727567.html"
+    },
+    {
+        "task_id": "20d61fe4-2e56-4c3e-9217-3a875dcf1e99",
+        "file_name": "65dd6e7854d97.pdf",
+        "format": "md",
+        "status": "completed",
+        "created_at": "2026-04-24 16:02:46",
+        "saved_file": "20d61fe4-2e56-4c3e-9217-3a875dcf1e99_69eb781c02458.md"
+    },
+    {
+        "task_id": "11d23212-144f-4359-9f50-f2b6b6a6ceb8",
+        "file_name": "65dd6e7854d97.pdf",
+        "format": "text",
+        "status": "completed",
+        "created_at": "2026-04-24 16:07:10",
+        "saved_file": "11d23212-144f-4359-9f50-f2b6b6a6ceb8_69eb79235fbfc.txt"
+    },
+    {
+        "task_id": "85bc9d1b-bc7e-4c68-bfce-20010e803a60",
+        "file_name": "4. X.Mirzayev  \u0441\u0443\u043d\u044a\u0438\u0439 \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442.docx",
+        "format": "md",
+        "status": "completed",
+        "created_at": "2026-04-24 16:26:33",
+        "saved_file": "85bc9d1b-bc7e-4c68-bfce-20010e803a60_69eb7d9dd4392.md"
+    },
+    {
+        "task_id": "c981dede-fc1e-46dc-aae7-fc94ef987ea5",
+        "file_name": "4. X.Mirzayev  \u0441\u0443\u043d\u044a\u0438\u0439 \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442.docx",
+        "format": "html",
+        "status": "completed",
+        "created_at": "2026-04-24 16:27:07",
+        "saved_file": "c981dede-fc1e-46dc-aae7-fc94ef987ea5_69eb7dbf4bd7a.html"
+    },
+    {
+        "task_id": "043f5a2b-831a-4583-8a04-fbd2a18dad68",
+        "file_name": "Lot.pdf",
+        "format": "md",
+        "status": "completed",
+        "created_at": "2026-04-24 16:33:40",
+        "saved_file": "043f5a2b-831a-4583-8a04-fbd2a18dad68_69eb7f488a558.md"
+    },
+    {
+        "task_id": "a9abba82-238d-4103-a639-d1699f6d3a3d",
+        "file_name": "Lot.pdf",
+        "format": "md",
+        "status": "completed",
+        "created_at": "2026-05-20 12:10:48",
+        "saved_file": "a9abba82-238d-4103-a639-d1699f6d3a3d_6a0d88ac73eab.md"
+    },
+    {
+        "task_id": "34cf11be-c6e5-4124-afea-b9709f953f5b",
+        "file_name": "docling_natija.docx",
+        "format": "text",
+        "status": "completed",
+        "created_at": "2026-05-20 12:11:06",
+        "saved_file": "34cf11be-c6e5-4124-afea-b9709f953f5b_6a0d88be2a9d6.txt"
+    },
+    {
+        "task_id": "67713019-8f63-42e8-b41c-8d0a753ef6eb",
+        "file_name": "docling_natija.docx",
+        "format": "html",
+        "status": "completed",
+        "created_at": "2026-05-20 12:11:14",
+        "saved_file": "67713019-8f63-42e8-b41c-8d0a753ef6eb_6a0d88c630f69.html"
+    },
+    {
+        "task_id": "c4cdc221-9836-46ac-9a84-8e2861c63a80",
+        "file_name": "Lot.pdf",
+        "format": "md",
+        "status": "completed",
+        "created_at": "2026-06-24 06:46:35",
+        "saved_file": "c4cdc221-9836-46ac-9a84-8e2861c63a80_6a3b612f7ba11.md"
+    },
+    {
+        "task_id": "0c579242-3773-4674-a92e-639eb451d87d",
+        "file_name": "Lot.pdf",
+        "format": "json",
+        "status": "completed",
+        "created_at": "2026-06-24 06:46:55",
+        "saved_file": "0c579242-3773-4674-a92e-639eb451d87d_6a3b6143ebfa3.json"
+    },
+    {
+        "task_id": "1bf45dd8-3ade-48a9-9c44-fee969e31946",
+        "file_name": "Lot.pdf",
+        "format": "json",
+        "status": "completed",
+        "created_at": "2026-06-24 06:47:02",
+        "saved_file": "1bf45dd8-3ade-48a9-9c44-fee969e31946_6a3b614b052e4.json"
+    },
+    {
+        "task_id": "36176bb2-78b8-43c4-b7d5-5bd3bb0f1b55",
+        "file_name": "Lot.pdf",
+        "format": "text",
+        "status": "completed",
+        "created_at": "2026-06-24 06:47:08",
+        "saved_file": "36176bb2-78b8-43c4-b7d5-5bd3bb0f1b55_6a3b6150d0b85.txt"
+    },
+    {
+        "task_id": "bf384fe2-c619-4daf-a3c7-3a5e684a5d26",
+        "file_name": "report-1782197295102.pdf",
+        "format": "md",
+        "status": "completed",
+        "created_at": "2026-06-24 07:47:42",
+        "saved_file": "bf384fe2-c619-4daf-a3c7-3a5e684a5d26_6a3b6f8a375b5.md"
+    }
+]
